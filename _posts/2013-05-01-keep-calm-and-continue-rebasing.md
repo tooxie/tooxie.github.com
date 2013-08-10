@@ -58,3 +58,6 @@ So, before you `--abort` every rebase you had in progress, just keep calm.
 And here is one last meme, just to make it clear:
 
 ![You're gonna have a bad time](http://i.qkme.me/3u70t9.jpg)
+
+<!-- vim:filetype=markdown
+-->

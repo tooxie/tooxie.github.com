@@ -2,6 +2,7 @@
 layout: default
 title: About me
 ---
+
 <h2>
     About me
 </h2>
@@ -50,3 +51,6 @@ if you want me to take you seriously.
 
 Do you have an interesting offer for me? I'm always open to talk. Just drop me
 an e-mail to <i>alvaro@mourino.net</i> and let's talk.
+
+<!-- vim:filetype=markdown
+-->
