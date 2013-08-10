@@ -3,6 +3,8 @@ layout: post
 title: Keep calm and continue rebasing
 ---
 
+Published to [Hacker News](https://news.ycombinator.com/item?id=5643342)
+
 ![Keep calm and continue rebasing](http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-continue-rebasing.png)
 
 Quite recently an article calling to *stay away from rebase* was published,
