@@ -19,6 +19,10 @@ at those events.
     Gobierno transparente, 1st prize
 </h4>
 
+<div class="photo">
+    <img src="./static/gobtrans.png" alt="Gobierno transparente">
+</div>
+
 Hackathon based on open data. We scraped the uruguayan parliamentaries'
 information to expose those who were missing the most sessions.
 
@@ -33,6 +37,10 @@ information to expose those who were missing the most sessions.
     Santa's Media Queries, 2nd prize
 </h4>
 
+<div class="photo">
+    <img src="./static/smq.png" alt="Santa's Media Queries">
+</div>
+
 Using CSS Media Queries this demo detects the size of your browser window and
 removes members of the Simpsons family from the couch. Uses no JavaScript.
 
@@ -43,6 +51,10 @@ removes members of the Simpsons family from the couch. Uses no JavaScript.
     Vandalism, 3rd prize
 </h4>
 
+<div class="photo">
+    <img src="./static/vandalism.png" alt="Vandalism">
+</div>
+
 Vandalism is an application that lets you scribble on web pages. You can draw figures like rectangles and circles, draw freehand and write text. This is useful for web development teams, to make annotations on web sites.
 
 [Vandalism](https://developer.mozilla.org/en-US/demos/detail/vandalism)
@@ -51,6 +63,10 @@ Vandalism is an application that lets you scribble on web pages. You can draw fi
 <h4>
     Beyer Music Player, 3rd prize
 </h4>
+
+<div class="photo">
+    <img src="./static/beyer.png" alt="Beyer Music Player">
+</div>
 
 Beyer is a music player that shows the potential of the drag and drop technology. Drop your music files right into the browser and listen to them. No server needed. This demo uses also HTML5's audio element and canvas to draw the spectrum analyzer.
 
