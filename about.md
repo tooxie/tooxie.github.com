@@ -7,42 +7,37 @@ title: About me
     About me
 </h2>
 
-Hi! I'm Alvaro. I live currently in Berlin, but I was born in
-[Uruguay](https://en.wikipedia.org/wiki/Montevideo), where I lived until the
-age of 27. My main interest is Web Development, that's what I work with and
-what I do in my free time. Let me tell you about some projects I've been
-working on:
+Hi! I'm Alvaro. I live currently in Berlin, Germany.
 
+<div class="photo">
+    <img src="./static/berlin.jpg" alt="Berlin baby!">
+</div>
 
-<h3>
-    Projects
-</h3>
+I was born in [Montevideo, Uruguay](https://en.wikipedia.org/wiki/Montevideo),
+where I lived until the age of 27. It's a beautiful city, if you are in Buenos
+Aires or around, I recommend you give it a visit.
 
-All my code is [Free Software](https://en.wikipedia.org/wiki/Free_software),
-which means that you are free to download it, modify it and redistribute it
-without asking for my permission (you already have it.)
+<div class="photo">
+    <img src="./static/montevideo.jpg" alt="Montevideo, tu casa">
+</div>
 
-<ul>
-    <li>
-        <a href="https://github.com/tooxie/shiva-server">Shiva (server)</a>
-    </li>
-    <li>
-        <a href="https://github.com/tooxie/shiva-client">Shiva (client)</a>
-    </li>
-    <li>
-        <a href="https://github.com/tooxie/kolba">Kolba</a>
-    </li>
-</ul>
+My main interest is Web Development, that's what I work with and what I do in
+my free time. All the software I write in my spare time is
+[Free as in Freedom](https://en.wikipedia.org/wiki/Free_software). Check it out
+in my [github account](https://github.com/tooxie).
 
-Check all my projects in my <a href="https://github.com/tooxie">github repo</a>.
 
 <h3>
     Technologies
 </h3>
 
-The main languages I work with are Python and (server-side) JavaScript. I'm
-always open to learn about new technologies, but don't even ask me to write PHP
-if you want me to take you seriously.
+The main languages I work with are Python and JavaScript. I'm always open to
+learn about new technologies, but don't even ask me to write PHP if you want
+me to take you seriously.
+
+I still have pending some things I would like to learn, like C++ and some pure
+functional language, like Haskell. If you have some idea or job offer that
+would require me to learn any of these, go ahead and contact me.
 
 
 <h3>
