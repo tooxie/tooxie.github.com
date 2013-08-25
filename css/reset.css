@@ -14,7 +14,6 @@ table, caption, tbody, tfoot, thead, tr, th, td {
   vertical-align: baseline;
 }
 
-
 /* Tables still need 'cellspacing="0"' in the markup. */
 table { border-collapse: separate; border-spacing: 0; }
 caption, th, td { text-align: left; font-weight: normal; }
@@ -27,9 +26,4 @@ blockquote, q { quotes: "" ""; }
 /* Remove annoying border on linked images. */
 a img { border: none; }
 
-
-body {
-  
-  margin: 10px;
-}
-
+body { margin: 10px; }
