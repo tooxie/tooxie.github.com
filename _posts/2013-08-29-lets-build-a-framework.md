@@ -6,7 +6,7 @@ subtitle: Request for comments
 
 <div>
     <a href="https://news.ycombinator.com/item?id=6294558"><img src="/static/hn.gif" alt="Published to Hacker News"></a>
-    <a href="http://www.reddit.com/r/programming/comments/1lbddo/rfc_lets_build_a_nodejs_framework/"><img src="/static/reddit.gif" alt="Published to Reddit"></a>
+    <a href="http://www.reddit.com/r/programming/comments/1lbddo/rfc_lets_build_a_nodejs_framework/"><img src="/static/reddit.gif" width="16" alt="Published to Reddit"></a>
 </div>
 
 I've been developing mostly in Python for the last 7 years or so. Even though I

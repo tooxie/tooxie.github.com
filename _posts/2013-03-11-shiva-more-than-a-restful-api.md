@@ -6,7 +6,7 @@ subtitle: More than a RESTful API to your music collection
 
 <div>
     <a href="https://news.ycombinator.com/item?id=5356763"><img src="/static/hn.gif" alt="Published to Hacker News"></a>
-    <a href="http://www.reddit.com/r/Python/comments/1a58m9/shiva_more_than_a_restful_api_to_your_music/"><img src="/static/reddit.gif" alt="Published to Reddit"></a>
+    <a href="http://www.reddit.com/r/Python/comments/1a58m9/shiva_more_than_a_restful_api_to_your_music/"><img src="/static/reddit.gif" width="16" alt="Published to Reddit"></a>
 </div>
 
 The <a href="https://hacks.mozilla.org/">Mozilla Hacks Blog</a> kindly
