@@ -323,8 +323,7 @@ e-mail says:
 I don't see how thread-local-storage can be implemented in userland without
 Node's support. Maybe I'm just missing something.
 
-I don't have a clear answer for this questions. Your feedback would be really
-useful for me.
+Your feedback on this issues would be really useful for me.
 
 
 ## What do you think? ##
