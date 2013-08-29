@@ -305,6 +305,18 @@ steps can the framework take to make this easier for the developer?
 * What do you think of the `getCurrentRequest()` helper?
 * Do you think the concept of thread locals is a good feature or is it actually
 harmful?
+  * Isaac Schlueter in his
+[The future of programming in Node.js](https://groups.google.com/forum/#!msg/nodejs/9afurRCTlOc/JKVo0ThFZIsJ)
+e-mail says:
+
+> Domains will be refactored to support more generic
+> continuation-tracking systems, to enable alternative error-handling
+> mechanisms in userland.  Eventually the Domain module will be a thing
+> that could be done in userland, but it will continue to be bundled
+> with the Node binary.
+
+I don't see how thread-local-storage can be implemented in userland without
+Node's support. Maybe I'm just missing something.
 
 I don't have a clear answer for this questions. Your feedback would be really
 useful for me.
