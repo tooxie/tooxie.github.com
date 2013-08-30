@@ -125,7 +125,7 @@ This is usually considered a bad practice because creation of objects is slower
 and heavier on RAM usage when those objects are reused. I still do it because:
 
 1. Those objects are instantiated **only once**, when the applications is
-laoded.
+loaded.
 2. Improves readability. I believe that the fact that they are **inside** the
 container object gives a strong visual cue that it **belongs** to that object.
 
