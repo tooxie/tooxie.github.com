@@ -113,7 +113,7 @@ You will notice that many objects make use of closures to emulate private
 variables:
 
 {% highlight javascript %}
-AnObject function(args) {
+function AnObject(args) {
     // Public method
     this.getArgs = function() {
         return args;
@@ -133,7 +133,7 @@ All the objects that are created on a per-request basis (Request, Response and
 RequestLocals) are optimized:
 
 {% highlight javascript %}
-AnObject function(args) {
+function AnObject(args) {
     this.args = args;
 }
 AnObject.prototype.getArgs = function() {
@@ -237,7 +237,7 @@ execution, and based on different conditions.
 When a request comes in, the first thing that gets executed are the
 `request middlewares`. These are useful for doing some global checks prior to
 the execution of the resource. Let's say we want to deny access to our website
-completetly:
+completely:
 
 {% highlight javascript %}
 app.beforeRequest(function() {
